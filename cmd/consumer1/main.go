@@ -1,5 +1,7 @@
 package main
 
+// reference: https://towardsdev.com/go-kafka-go-7547c38b4f09
+
 import (
 	"context"
 	"fmt"
